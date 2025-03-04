@@ -3,3 +3,4 @@ venv
 api.py
 database.db
 .env
+__pycache__
